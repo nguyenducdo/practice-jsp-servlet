@@ -1,0 +1,21 @@
+1567334308873	Rename resource 'danh-sach.jsp'
+1567414160756	Encapsulate field 'ids'
+1567415600353	Encapsulate field 'list'
+1567416851936	Encapsulate field 'totalPages'
+1567416855301	Encapsulate field 'visiblePages'
+1567416858024	Encapsulate field 'startPage'
+1567418163035	Encapsulate field 'maxItemInPage'
+1567444399132	Delete element
+1567692861756	Rename package 'com.controller.login'
+1567736586104	Delete element
+1567738098897	Rename resource 'notHavePermissionForm.jsp'
+1567738124615	Rename resource 'accessDenied.jsp'
+1567778480741	Rename resource 'list.jsp'
+1567779002992	Delete element
+1567779009578	Delete element
+1567779015354	Rename resource 'list1.jsp'
+1567779579496	Encapsulate field 'category'
+1567780913738	Rename resource 'list.jsp'
+1567786572580	Delete elements
+1567793306820	Delete element
+1567841295672	Encapsulate field 'categoryId'

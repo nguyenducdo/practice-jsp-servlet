@@ -1,0 +1,8 @@
+127.0.0.1 - - [25/Jul/2019:00:01:13 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:00:01:17 +0700] "GET /servlet-o7planning/other/exampleInfo/bro.ext?text1=fewfew HTTP/1.1" 200 1580
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:00:12:10 +0700] "GET /servlet-o7planning/other/exampleInfo?text1=fewfew HTTP/1.1" 200 1556
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:00:12:14 +0700] "GET /servlet-o7planning/other/exampleInfo/hyug?text1=fewfew HTTP/1.1" 200 1571
+127.0.0.1 - - [25/Jul/2019:00:12:40 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:00:12:49 +0700] "GET /servlet-o7planning/other/exampleInfo/hyug?text1=fewfew HTTP/1.1" 404 1127
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:00:12:55 +0700] "GET /servlet-o7planning/other/exampleInfo?text1=fewfew HTTP/1.1" 404 1118
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:00:12:59 +0700] "GET /servlet-o7planning/other?text1=fewfew HTTP/1.1" 200 1524

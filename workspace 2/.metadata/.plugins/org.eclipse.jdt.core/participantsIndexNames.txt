@@ -1,0 +1,25 @@
+INDEX VERSION 1.131
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\576875645.index
+\GiaoDienJspServ\src\main\resources
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\575786416.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\45940432.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\351220789.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1081197406.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1031328455.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1698392553.index
+\GiaoDienJspServ\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4181880769.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3095279702.index
+\GiaoDienJspServ\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\189633930.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\549075126.index
+\GiaoDienJspServlet2\src\main\java
+E:\practice-jsp-servlet-jdbc\workspace 2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2416838219.index
+\GiaoDienJspServlet2\src\main\java

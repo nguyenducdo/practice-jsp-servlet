@@ -1,0 +1,8 @@
+127.0.0.1 - - [22/Jul/2019:10:17:38 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:17:43 +0700] "GET /servlet-o7planning/demo2/formHTML.html HTTP/1.1" 200 1071
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:18:00 +0700] "GET /servlet-o7planning/demo/formProcessing.jsp?userName=gttwt&password=t54t5&firstName=t54t45&lastName=t54t5e&gender=M&address=tertetre&address=ertrete&address=retetr HTTP/1.1" 200 341
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:18:21 +0700] "GET /servlet-o7planning/demo2/formHTML.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:18:26 +0700] "GET /servlet-o7planning/demo/formProcessing.jsp?userName=gttwt&password=&firstName=t54t45&lastName=t54t5e&gender=M&address=&address=&address= HTTP/1.1" 200 315
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:18:56 +0700] "GET /servlet-o7planning/demo/formProcessing.jsp?userName=&password=&firstName=t54t45&lastName=t54t5e&gender=M&address=&address=&address= HTTP/1.1" 200 310
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:19:53 +0700] "GET /servlet-o7planning/demo2/formHTML.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:19:55 +0700] "GET /servlet-o7planning/demo/formProcessing.jsp?userName=&password=&firstName=&lastName=&address=&address=&address= HTTP/1.1" 200 265

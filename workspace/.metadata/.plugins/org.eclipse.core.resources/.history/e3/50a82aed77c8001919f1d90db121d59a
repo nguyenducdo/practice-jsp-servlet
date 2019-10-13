@@ -1,0 +1,5 @@
+package com.dodo.hello;
+
+public class WeatherRESTfulService {
+
+}

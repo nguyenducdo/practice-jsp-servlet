@@ -1,0 +1,13 @@
+127.0.0.1 - - [25/Aug/2019:22:13:02 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:13:13 +0700] "GET /GiaoDienJspServlet2/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:10 +0700] "GET /GiaoDienJspServlet2/trang-chu;jsessionid=6F8838742579398BE7D5D4E8A87668AB HTTP/1.1" 200 7550
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:10 +0700] "GET /GiaoDienJspServlet2/template/web/jquery/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:10 +0700] "GET /GiaoDienJspServlet2/template/web/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:10 +0700] "GET /GiaoDienJspServlet2/template/web/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:10 +0700] "GET /GiaoDienJspServlet2/template/web/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:10 +0700] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [25/Aug/2019:22:14:55 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:14:56 +0700] "GET /GiaoDienJspServlet2/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:16:51 +0700] "GET /GiaoDienJspServlet2/trang-chu HTTP/1.1" 200 7550
+127.0.0.1 - - [25/Aug/2019:22:54:13 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Aug/2019:22:54:17 +0700] "GET /GiaoDienJspServlet2/ HTTP/1.1" 302 -

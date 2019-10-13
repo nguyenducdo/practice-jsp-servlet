@@ -1,0 +1,15 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.dodo.model.User"><rhs name\="com.dodo.model.User"/></lhs><lhs name\="java.io.File"><rhs name\="java.io.File"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="javax.servlet.ServletRequest"><rhs name\="request.UserRoleRequestWrapper"/></lhs><lhs name\="javax.servlet.http.HttpServletRequest"><rhs name\="request.UserRoleRequestWrapper"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="javax.servlet.http.Cookie"/></lhs><lhs name\="javax.servlet.http.Cookie"><rhs name\="javax.servlet.http.Cookie"/></lhs><lhs name\="bean.UserAccount"><rhs name\="bean.UserAccount"/></lhs><lhs name\="bean.Product"><rhs name\="bean.Product"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.sql.SQLException"/><rhs name\="java.lang.NumberFormatException"/><rhs name\="java.io.IOException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.sql.SQLException"/><rhs name\="java.lang.NumberFormatException"/><rhs name\="java.io.IOException"/></lhs><lhs name\="java.sql.SQLException"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.lang.IllegalArgumentException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.RuntimeException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.NumberFormatException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.io.IOException"><rhs name\="java.io.IOException"/></lhs><lhs name\="model.Attachment"><rhs name\="model.Attachment"/></lhs></history>
+content_assist_number_of_computers=21
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=16
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

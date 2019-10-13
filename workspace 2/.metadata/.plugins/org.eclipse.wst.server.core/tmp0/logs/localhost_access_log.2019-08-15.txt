@@ -1,0 +1,17 @@
+127.0.0.1 - - [15/Aug/2019:22:26:14 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:26:18 +0700] "GET /GiaoDienJspServlet2/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:26:19 +0700] "GET /GiaoDienJspServlet2/trang-chu;jsessionid=82B3A391ADAF02B81603F00A680B73AD HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:26:42 +0700] "GET /GiaoDienJspServlet2/admin-home HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:26:42 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 213
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:26:59 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 213
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:27:49 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:28:33 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 205
+127.0.0.1 - - [15/Aug/2019:22:28:45 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:28:48 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:28:54 +0700] "GET /GiaoDienJspServlet2/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:28:54 +0700] "GET /GiaoDienJspServlet2/trang-chu HTTP/1.1" 200 201
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:29:01 +0700] "GET /GiaoDienJspServlet2/admin-home HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:29:01 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:29:57 +0700] "GET /GiaoDienJspServlet2/trang-chu?param=6969 HTTP/1.1" 200 214
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:29:59 +0700] "GET /GiaoDienJspServlet2/trang-chu HTTP/1.1" 200 210
+0:0:0:0:0:0:0:1 - - [15/Aug/2019:22:30:06 +0700] "GET /GiaoDienJspServlet2/admin-home HTTP/1.1" 200 145
